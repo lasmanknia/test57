@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#imageUpload {
+    display: block;
+}
+
+#uploadedImage {
+    max-width: 100%;
+    height: auto;
+}
+input{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px;
+    margin: 0 auto;
+}
+#myDiv{
+    margin: 20px auto;
+    width: 70vw;
+    height: 50vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
